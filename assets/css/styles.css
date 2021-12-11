@@ -492,28 +492,36 @@ img{
 }
 
 .skills__html{
-    width: 90%;
+    width: 0%;
+    transition: 10s;
 }
-.skills__css{
-    width: 70%;
+.skills__angular{
+    width: 0%;
+    transition: 3s;
 }
 .skills__js{
-    width: 85%;
+    width: 0%;
+    transition: 10s;
 }
 .skills__vue{
-    width: 90%;
+    width: 0%;
+    transition: 10s;
 }
 .skills__node{
-    width: 90%;
+    width: 0%;
+    transition: 10s;
 }
 .skills__firebase{
-    width: 70%;
+    width: 0%;
+    transition: 5s;
 }
 .skills__c{
-    width: 65%;
+    width: 0%;
+    transition: 5s;
 }
-.skills__python{
-    width: 75%;
+.skills__C_Sharp{
+    width: 0%;
+    transition: 10s;
 }
 
 .skills__close .skills__list{
