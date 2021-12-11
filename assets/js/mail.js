@@ -27,7 +27,7 @@ function submitForm(e){
 
     if(name == '' || emailid == '' || question ==''|| msgContent ==''){
         //Alert
-        document.querySelector('.alert').textContent = 'You forget write something!!';
+        document.querySelector('.alert').textContent = 'You forget to write something!!';
 
         //Using the alert
         document.querySelector('.alert').style.display = 'block';

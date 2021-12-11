@@ -22,7 +22,7 @@
 
 
 
-    hsl(var(--hue-color), 8%, 65%);
+
     --input-color: hsl(var(--hue-color), 70%, 96%);
     --container-color: #fff;
     --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
